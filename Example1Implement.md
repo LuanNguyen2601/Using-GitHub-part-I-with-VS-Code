@@ -21,4 +21,8 @@ Example: git commit -m "sdfasf"
 even more: git commit -m "sdfa asf" -m "asdf    " -m " asdfafsa sw"
 
 * However, when you clone from GitHub to VS Code, whatever happens to clone will never change the original one
-for example this file Example1Implement.md, you read this file in VS Code as a clone, so if you change something in this file, it will never change the one on GitHub
+- for example this file Example1Implement.md, you read this file in VS Code as a clone, so if you change something in this file, it will never change the one on GitHub
+But you still can see the changes in the clone files in your desktop
+- the file Index1.html was not created from GitHub, so when you create this file in VS Code in the directory, you can add it to GitHub and also make change in this file
+
+* You have to commit in Source Control if you want to make changes to the directory on GitHub through VS Code
