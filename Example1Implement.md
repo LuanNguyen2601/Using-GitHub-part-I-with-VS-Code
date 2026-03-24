@@ -24,6 +24,6 @@ even more: git commit -m "sdfa asf" -m "asdf    " -m " asdfafsa sw"
 - for example this file Example1Implement.md, you read this file in VS Code as a clone, so if you change something in this file, it will never change the one on GitHub
 But you still can see the changes in the clone files in your desktop
 - the file Index1.html was not created from GitHub, so when you create this file in VS Code in the directory, you can add it to GitHub. But when you added it to GitHub, you can't make change in this file. You can go to Source Control to see it
-+ But if you want to make change, got to Source Control, and click Sync
++ But if you want to make change, go to Source Control, and click Sync
 
 * You have to commit in Source Control if you want to make changes to the directory on GitHub through VS Code
